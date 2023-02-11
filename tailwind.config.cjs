@@ -60,7 +60,6 @@ module.exports = {
     fontFamily: {
       mono: ["IBM Plex Mono", "Pretendard-Regular", "monospace"],
     },
-    // },
   },
   plugins: [require("@tailwindcss/typography")],
 };
