@@ -7,7 +7,7 @@ export const SITE = {
 	title: 'Sanh0 Blog',
 	ogImage: 'astropaper-og.jpg',
 	lightAndDarkMode: false,
-	postPerPage: 3,
+	postPerPage: 10,
 };
 
 export const LOGO_IMAGE = {
