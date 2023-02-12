@@ -1,6 +1,8 @@
-# build output
+# directories
 dist/
 .output/
+.idea/
+.astro/
 
 # dependencies
 node_modules/
@@ -21,6 +23,4 @@ pnpm-debug.log*
 
 # ignore directory
 .astro
-.vscode
-.husky
 
